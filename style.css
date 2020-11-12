@@ -32,7 +32,7 @@ a:hover{
 }
 
 .banner{
-    background-image: url('images/img1.jpg');
+    background-image: url('img1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -76,7 +76,7 @@ a:hover{
 
 .testimonals{
     color: #fff;
-    background-image: url('images/img4.jpg');
+    background-image: url('img4.jpg');
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
